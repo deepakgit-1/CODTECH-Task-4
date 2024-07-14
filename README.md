@@ -2,7 +2,7 @@ Name: DEEPAKKUMAR G
 
 Company: CODTECH IT SOLUTIONS
 
-Inter ID :CT12DS1744
+Inter ID : CT12DS1744
 
 Domain: Machine Learning
 
@@ -23,9 +23,7 @@ Display area for the BMI result and its interpretation.
 BMI Calculation Logic:
 
 Formula to calculate BMI: 
-BMI = Weight (kg)
-      ------------
-      Height (m)
+BMI = Weight (kg) / Height (m)
 
 Function to interpret the BMI value.
 Error Handling:
